@@ -1,10 +1,10 @@
 {
     "enabled":  true,
     "disabledMessage":  "",
-    "latest":  "1.0.9",
+    "latest":  "1.1.0",
     "minVersion":  "",
-    "exeUrl":  "https://raw.githubusercontent.com/yuvl123/cache-731/main/app-1.0.9.exe",
-    "sha256":  "bf0f2fe64d1e4e7080cb1c4c98a161733f9fc078e173259c231312b37982e568",
+    "exeUrl":  "https://raw.githubusercontent.com/yuvl123/cache-731/main/app-1.1.0.exe",
+    "sha256":  "51449da8b3a123edab8229cca78d09dfb796b5d98a4f0fac5553ff8047c738e7",
     "notice":  "",
     "noticeId":  ""
 }
