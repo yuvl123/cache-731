@@ -2,7 +2,7 @@
     "enabled": true,
     "disabledMessage": "",
     "latest": "1.1.9",
-    "minVersion": "",
+    "minVersion": "1.1.9",
     "exeUrl": "https://raw.githubusercontent.com/yuvl123/cache-731/main/app-1.1.9.exe",
     "sha256": "bb684ab3b5b43dac33291552cda977aadb9efbc28183994b35339ecc962318d4",
     "notice": "",
