@@ -1,10 +1,10 @@
 {
     "enabled": true,
     "disabledMessage": "",
-    "latest": "1.2.6",
+    "latest": "1.2.7",
     "minVersion": "",
-    "exeUrl": "https://yhtidawxwaqjsyagnqfp.supabase.co/storage/v1/object/public/updates/app-1.2.6.exe",
-    "sha256": "9e9b83deed3305586fe032a270ce5532db6995661cb021f7bf38accaad97af1b",
+    "exeUrl": "https://yhtidawxwaqjsyagnqfp.supabase.co/storage/v1/object/public/updates/app-1.2.7.exe",
+    "sha256": "96193dea756599afd0ff0e1a2b13a0ce25ebe5bcc24ea2cba46e61b1f9826130",
     "notice": "",
     "noticeId": ""
 }
